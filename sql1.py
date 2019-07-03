@@ -16,4 +16,4 @@ conn = engine.connect()
 result = conn.execute(s)
 
 for row in result:
-   print (row)
+   print(row)

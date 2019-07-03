@@ -16,8 +16,8 @@ class computer:
         self.name="kudda"
         self.age=8
 
-    def update(self):
-        self.age=30
+    # def update(self):
+    #     self.age=30
 
     def compare(self,c2):
             if self.age==c2.age:
